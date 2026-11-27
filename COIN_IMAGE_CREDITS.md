@@ -148,3 +148,7 @@ Image source / 画像出典: The Walters Art Museum. [CC0 1.0](https://creativec
 
 - No endorsement by any museum or photographer is implied. / 所蔵館や撮影者による推奨を意味しません。
 - Modern coin images are not included in this R1 distribution. / R1の配布には現代貨画像を含みません。
+
+## R2 additional images / R2追加画像
+
+See [R2_COIN_IMAGE_CREDITS.md](R2_COIN_IMAGE_CREDITS.md) for the 28 additional historical coins in the R2 integration candidate. The R1 list above remains unchanged.
