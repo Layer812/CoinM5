@@ -18,10 +18,7 @@ Using a sophisticated algorithm, CoinM5 provides an appropriately random answer 
 
 CoinM5 は M5Stack StopWatch の円形ディスプレイで楽しむ、世界の歴史貨幣を使ったコイントスアプリです。
 
-- NASA の衛星画像による昼と夜の地球儀。
 - 世界各地の歴史貨100枚、200面を収録。
-- 硬貨の輪郭や穴を生かした、厚みのある回転アニメーションと効果音。
-- 「うらおもて」では硬貨にまつわる歴史や逸話を紹介。
 - 日本語・英語に対応。
 
 ### 操作方法
@@ -47,10 +44,7 @@ M5Burner 用シェアコードは別途案内予定です。
 
 CoinM5 is a coin-toss app for the circular display of the M5Stack StopWatch, featuring historical coins from around the world.
 
-- A day-and-night globe using NASA Earth imagery.
 - 100 historical coins with 200 faces.
-- Animated coin flips with sound effects, preserving distinctive silhouettes and holes.
-- **Heads or Tails**: historical anecdotes and stories behind the coins.
 - Japanese and English interfaces.
 
 ### Controls
