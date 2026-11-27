@@ -68,6 +68,15 @@ The M5Burner share code will be announced separately.
 
 ## Image credits / 画像出典
 
+**硬貨画像の著作権・個別出典： [COIN_IMAGE_CREDITS.md](COIN_IMAGE_CREDITS.md)**
+
+現行R1の歴史貨100枚・200面について、所蔵館・撮影者、個別の資料URL、ライセンスおよび加工内容を掲載しています。原写真の権利は各所蔵館・撮影者に由来し、加工済み画像にも該当するライセンスを適用します。
+
+**Coin image copyright and attribution: [COIN_IMAGE_CREDITS.md](COIN_IMAGE_CREDITS.md)**
+
+The complete R1 attribution list identifies the sources and applicable image licenses for all 100 historical coins (200 faces), including individual collection records and modifications. Original photographs and adapted image data retain their applicable licenses.
+
+
 - Day: [NASA Earth Observatory — Blue Marble Next Generation, July 2004](https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/base-map/).
 - Night: [NASA Earth Observatory — Black Marble 2016](https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/).
 - Historical coin imagery: Cleveland Museum of Art, The Metropolitan Museum of Art, and the Walters Art Museum (99 coins, CC0).
