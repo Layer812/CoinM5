@@ -1,8 +1,8 @@
 # CoinM5 R2 — additional 28 historical coins / 追加28枚の画像出典
 
-R2 integration candidate (128 coins / 256 faces); not a statement of firmware release or on-device validation. The original 100 entries remain listed in [COIN_IMAGE_CREDITS.md](COIN_IMAGE_CREDITS.md).
+R2 (128 coins / 256 faces). R2 FIX5 operation was confirmed by the developer on M5Stack StopWatch on 2026-11-27. The original 100 entries remain listed in [COIN_IMAGE_CREDITS.md](COIN_IMAGE_CREDITS.md).
 
-R2統合候補版の追加28枚。従来の100枚は既存の出典一覧を維持しています。実機確認・正式公開を示すものではありません。
+R2の追加28枚。従来の100枚は既存の出典一覧を維持しています。2026年11月27日、開発者がM5Stack StopWatchでR2 FIX5の動作を確認しました。
 
 Images were adapted by face separation, cropping, background and hole masking, resizing to 240×240, binary alpha and RGB565 indexed conversion/compression. Each adapted image retains the corresponding source license. No endorsement by the original creators or institutions is implied.
 
