@@ -2,9 +2,9 @@
 
 ## Scope / 対象
 
-CoinM5 R1 (100 historical coins, 200 faces). This list is based on the R53 image-source manifest in the R1 FIX40 source package. The planned R2 expansion to 128 coins is not covered by this R1 list.
+CoinM5 R1 (100 historical coins, 200 faces). This list is based on the R53 image-source manifest in the R1 FIX40 source package. The 28 additional coins in R2 are documented separately in [R2_COIN_IMAGE_CREDITS.md](R2_COIN_IMAGE_CREDITS.md).
 
-CoinM5 R1（歴史貨100枚・200面）の素材台帳に基づく一覧です。制作中のR2（128枚版）の追加素材は、このR1の一覧には含めていません。
+CoinM5 R1（歴史貨100枚・200面）の素材台帳に基づく一覧です。R2（128枚版）の追加素材28枚は[別の出典一覧](R2_COIN_IMAGE_CREDITS.md)に掲載しています。
 
 ## Rights and modifications / 権利と加工
 
@@ -151,4 +151,4 @@ Image source / 画像出典: The Walters Art Museum. [CC0 1.0](https://creativec
 
 ## R2 additional images / R2追加画像
 
-See [R2_COIN_IMAGE_CREDITS.md](R2_COIN_IMAGE_CREDITS.md) for the 28 additional historical coins in the R2 integration candidate. The R1 list above remains unchanged.
+See [R2_COIN_IMAGE_CREDITS.md](R2_COIN_IMAGE_CREDITS.md) for the 28 additional historical coins in R2. The R1 list above remains unchanged.
