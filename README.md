@@ -27,7 +27,6 @@ CoinM5 は M5Stack StopWatch の円形ディスプレイで楽しむ、世界の
 | --- | --- |
 | 地球儀 | スワイプで回転、タップで地域に接近 |
 | 地球儀 | 右ボタンでランダムに硬貨を選択 |
-| 地球儀 | 本体を振ると地球自体がコインのように回転し、昼か夜で停止 |
 | 地球儀 | 左ボタンで素材の出典・著作権情報 |
 | 硬貨 | 振る、右ボタン、またはタップでコイントス |
 | 硬貨 | 左ボタンで戻る、左ボタンのダブルクリックで硬貨情報 |
@@ -53,7 +52,6 @@ CoinM5 is a coin-toss app for the circular display of the M5Stack StopWatch, fea
 | --- | --- |
 | Globe | Swipe to rotate; tap to zoom into a region |
 | Globe | Press the right button to select a random coin |
-| Globe | Shake to toss the Earth itself; it lands on day or night |
 | Globe | Press the left button to view credits |
 | Coin | Shake, press the right button, or tap to toss |
 | Coin | Press the left button to return; double-click it for coin information |
