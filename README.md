@@ -18,16 +18,18 @@ Using a sophisticated algorithm, CoinM5 provides an appropriately random answer 
 
 CoinM5 は M5Stack StopWatch の円形ディスプレイで楽しむ、世界の歴史貨幣を使ったコイントスアプリです。
 
-- 世界各地の歴史貨176枚、352面を収録（R4実機確認版）。
-- 1933年ダブルイーグル金貨、天正大判、シベリア10コペイカ銅貨、ザンジバル1パイサ銅貨、ヤップ島の石貨などを収録。
+- 世界各地の歴史貨176枚、352面を収録（R4 FINAL176 FIX5 実機確認版）。
+- 1933年ダブルイーグル金貨、天正大判、シベリア10コペイカ銅貨、ザンジバル1パイサ銅貨、ヤップ島の石貨、サムドラグプタ王の琴演奏図金貨、アクスム王国エンドゥビス王の金貨などを収録。
 - 地球儀を探索し、地域や硬貨の密集度に合わせて3段階で接近。
-- 日本語・英語に対応。
+- 日本語・英語に対応。全176枚に個別の硬貨情報と「うらおもて」の歴史エピソードを収録。
 
 ### R4 — 世界の至宝
 
-2026年11月28日、M5Stack StopWatchでの動作を開発者が確認しました。1933年ダブルイーグルの画像は博物館所蔵個体であり、2021年に18,872,250米ドルで落札された個体とは異なります。
+2026年11月29日（JST）、最終構成 R4 FINAL176 FIX5 の動作をM5Stack StopWatchで開発者が確認しました。1933年ダブルイーグルの画像は博物館所蔵個体であり、2021年に18,872,250米ドルで落札された個体とは異なります。
 
-硬貨画像は240×240。APPと硬貨DATAを分離し、専用DATA領域13,565,952バイトのうち13,490,910バイト（99.45%）を使用します。
+硬貨画像は240×240。APPと硬貨DATAを分離し、専用DATA領域13,565,952バイトのうち13,480,996バイト（99.37%）を使用します。
+
+最終版では148番・150番を上記2枚の金貨に差し替え、全176枚に個別の日英解説を収録しました。歴史解説は読み物としての記載であり、学術的な鑑定・評価を保証するものではありません。
 
 ### 操作方法
 
@@ -48,22 +50,26 @@ CoinM5 は M5Stack StopWatch の円形ディスプレイで楽しむ、世界の
 
 対象機種：**M5Stack StopWatch**
 
-M5Burner 用シェアコードは別途案内予定です。R4の配布ファイルはまだ掲載していません。
+[M5Burner公式案内](https://docs.m5stack.com/ja/uiflow/m5burner/intro)。最終版のシェアコードと配布ファイルは別途掲載予定です。
+
+APPと画像DATAは別々に更新します。画像DATAが最終176枚版であれば、文章・機能の通常更新はAPPのみで、DATAの再書き込みは不要です。専用DATA領域がない場合の初回導入は通常更新と区別し、既存のFlash構成・保存データへの影響を確認してから行ってください。
 
 ## English
 
 CoinM5 is a coin-toss app for the circular display of the M5Stack StopWatch, featuring historical coins from around the world.
 
-- 176 historical coins with 352 faces in the hardware-tested R4 edition.
-- Includes the 1933 Double Eagle, Tensho oban, Siberian 10 kopecks, Zanzibar 1 pysa and Yap stone money.
+- 176 historical coins with 352 faces in the hardware-tested R4 FINAL176 FIX5 edition.
+- Includes the 1933 Double Eagle, Tensho oban, Siberian 10 kopecks, Zanzibar 1 pysa, Yap stone money, Samudragupta's lyrist gold dinar, and the Aksumite gold coin of Endubis.
 - Explore the globe with three zoom levels that adapt to local coin density.
-- Japanese and English interfaces.
+- Japanese and English interfaces, with individual coin information and bilingual Heads or Tails historical stories for all 176 coins.
 
 ### R4 — Treasures of the World
 
-On November 28, 2026, the developer confirmed operation on M5Stack StopWatch hardware. The pictured 1933 Double Eagle is a museum specimen, not the individual coin auctioned for US$18,872,250 in 2021.
+On November 29, 2026 (JST), the developer confirmed operation of R4 FINAL176 FIX5 on M5Stack StopWatch hardware. The pictured 1933 Double Eagle is a museum specimen, not the individual coin auctioned for US$18,872,250 in 2021.
 
-Coin images are 240×240. Application and coin data are separate; the dedicated coin data region uses 13,490,910 of 13,565,952 bytes (99.45%).
+Coin images are 240×240. Application and coin data are separate; the dedicated coin data region uses 13,480,996 of 13,565,952 bytes (99.37%).
+
+The final edition replaces slots 148 and 150 with the two gold coins above and provides individual bilingual stories for every coin. The stories are introductory historical notes, not professional numismatic appraisals.
 
 ### Controls
 
@@ -84,27 +90,30 @@ Coin images are 240×240. Application and coin data are separate; the dedicated 
 
 Supported device: **M5Stack StopWatch**
 
-The M5Burner share code will be announced separately. R4 distribution files have not yet been published.
+[Official M5Burner guide](https://docs.m5stack.com/en/uiflow/m5burner/intro). The final edition's share code and distribution files will be announced separately.
+
+Application and image-data updates are separate. Once the final 176-coin data is installed, ordinary text and application updates do not require rewriting the image data. Initial provisioning of the dedicated data region is a separate operation; check its impact on the existing flash layout and stored data before proceeding.
 
 ## Image credits / 画像出典
 
-以下はR1/R2の128枚分の公開済み出典一覧です。R3/R4の追加48枚の出典一覧は別途整備します。
+全176枚の画像出典を、収録時期に応じた3つの一覧に掲載しています。
 
-The existing public attribution lists below cover the original 128 coins (R1/R2). Attribution for the additional 48 coins in R3/R4 is maintained separately and will be documented before distribution.
+The following three attribution lists cover all 176 coins in the final collection.
 
 **硬貨画像の著作権・個別出典： [COIN_IMAGE_CREDITS.md](COIN_IMAGE_CREDITS.md)**
 
-R1の歴史貨100枚と、[R2で追加した28枚](R2_COIN_IMAGE_CREDITS.md)について、所蔵館・撮影者、個別の資料URL、ライセンスおよび加工内容を掲載しています。原写真の権利は各所蔵館・撮影者に由来し、加工済み画像にも該当するライセンスを適用します。
+R1の歴史貨100枚、[R2で追加した28枚](R2_COIN_IMAGE_CREDITS.md)、[R3/R4最終追加48枚](R3_R4_COIN_IMAGE_CREDITS.md)について、所蔵館・撮影者、個別の資料URL、ライセンスおよび加工内容を掲載しています。原写真の権利は各所蔵館・撮影者に由来し、加工済み画像にも該当するライセンスを適用します。
 
 **Coin image copyright and attribution: [COIN_IMAGE_CREDITS.md](COIN_IMAGE_CREDITS.md)**
 
-The R1 attribution list and the [R2 additional coin credits](R2_COIN_IMAGE_CREDITS.md) identify sources and applicable image licenses for the 128 historical coins (256 faces), including individual collection records and modifications. Original photographs and adapted image data retain their applicable licenses.
+The R1 attribution list, [R2 additional coin credits](R2_COIN_IMAGE_CREDITS.md), and [R3/R4 final additional 48 coin credits](R3_R4_COIN_IMAGE_CREDITS.md) identify sources and applicable licenses for all 176 historical coins (352 faces), including individual collection records and modifications. Original photographs and adapted image data retain their applicable licenses.
 
 
 - Day: [NASA Earth Observatory — Blue Marble Next Generation, July 2004](https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/base-map/).
 - Night: [NASA Earth Observatory — Black Marble 2016](https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/).
 - Original 100-coin collection: 99 CC0 coins from Cleveland Museum of Art, The Metropolitan Museum of Art, and the Walters Art Museum, plus the Kaiyuan Tongbao below.
 - R2 additions: [28 historical coins — individual image credits and licenses](R2_COIN_IMAGE_CREDITS.md).
+- R3/R4 final additions: [48 historical coins — individual image credits and licenses](R3_R4_COIN_IMAGE_CREDITS.md).
 - Kaiyuan Tongbao: [image by CZDK](https://commons.wikimedia.org/wiki/File:Kai_Yuan_Tong_Bao,_early_type,_plain.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Adaptations include splitting the two faces, cropping, background removal, masking, resizing, and RGB565 palette quantization. The adapted image data retains CC BY-SA 3.0.
 - Individual coin image sources are available in the app. Modern coin images are not included in this edition.
 
