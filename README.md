@@ -1,5 +1,7 @@
 # CoinM5 — World Coin Toss
 
+![CoinM5 on M5Stack StopWatch](docs/images/coinm5-top.gif)
+
 **世界中で利用できる意思決定支援機。**
 
 高度なアルゴリズムにより、どのような二択問題にも適当な回答を提示します。
