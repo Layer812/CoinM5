@@ -18,9 +18,16 @@ Using a sophisticated algorithm, CoinM5 provides an appropriately random answer 
 
 CoinM5 は M5Stack StopWatch の円形ディスプレイで楽しむ、世界の歴史貨幣を使ったコイントスアプリです。
 
-- 世界各地の歴史貨128枚、256面を収録（日本の小判・寛永通宝・一分銀を含む）。
+- 世界各地の歴史貨176枚、352面を収録（R4実機確認版）。
+- 1933年ダブルイーグル金貨、天正大判、シベリア10コペイカ銅貨、ザンジバル1パイサ銅貨、ヤップ島の石貨などを収録。
 - 地球儀を探索し、地域や硬貨の密集度に合わせて3段階で接近。
 - 日本語・英語に対応。
+
+### R4 — 世界の至宝
+
+2026年11月28日、M5Stack StopWatchでの動作を開発者が確認しました。1933年ダブルイーグルの画像は博物館所蔵個体であり、2021年に18,872,250米ドルで落札された個体とは異なります。
+
+硬貨画像は240×240。APPと硬貨DATAを分離し、専用DATA領域13,565,952バイトのうち13,490,910バイト（99.45%）を使用します。
 
 ### 操作方法
 
@@ -41,15 +48,22 @@ CoinM5 は M5Stack StopWatch の円形ディスプレイで楽しむ、世界の
 
 対象機種：**M5Stack StopWatch**
 
-M5Burner 用シェアコードは別途案内予定です。
+M5Burner 用シェアコードは別途案内予定です。R4の配布ファイルはまだ掲載していません。
 
 ## English
 
 CoinM5 is a coin-toss app for the circular display of the M5Stack StopWatch, featuring historical coins from around the world.
 
-- 128 historical coins with 256 faces, including Japan's koban, Kanei Tsuho and ichibugin.
+- 176 historical coins with 352 faces in the hardware-tested R4 edition.
+- Includes the 1933 Double Eagle, Tensho oban, Siberian 10 kopecks, Zanzibar 1 pysa and Yap stone money.
 - Explore the globe with three zoom levels that adapt to local coin density.
 - Japanese and English interfaces.
+
+### R4 — Treasures of the World
+
+On November 28, 2026, the developer confirmed operation on M5Stack StopWatch hardware. The pictured 1933 Double Eagle is a museum specimen, not the individual coin auctioned for US$18,872,250 in 2021.
+
+Coin images are 240×240. Application and coin data are separate; the dedicated coin data region uses 13,490,910 of 13,565,952 bytes (99.45%).
 
 ### Controls
 
@@ -70,9 +84,13 @@ CoinM5 is a coin-toss app for the circular display of the M5Stack StopWatch, fea
 
 Supported device: **M5Stack StopWatch**
 
-The M5Burner share code will be announced separately.
+The M5Burner share code will be announced separately. R4 distribution files have not yet been published.
 
 ## Image credits / 画像出典
+
+以下はR1/R2の128枚分の公開済み出典一覧です。R3/R4の追加48枚の出典一覧は別途整備します。
+
+The existing public attribution lists below cover the original 128 coins (R1/R2). Attribution for the additional 48 coins in R3/R4 is maintained separately and will be documented before distribution.
 
 **硬貨画像の著作権・個別出典： [COIN_IMAGE_CREDITS.md](COIN_IMAGE_CREDITS.md)**
 
