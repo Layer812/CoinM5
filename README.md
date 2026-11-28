@@ -50,7 +50,9 @@ CoinM5 は M5Stack StopWatch の円形ディスプレイで楽しむ、世界の
 
 対象機種：**M5Stack StopWatch**
 
-[M5Burner公式案内](https://docs.m5stack.com/ja/uiflow/m5burner/intro)。最終版のシェアコードと配布ファイルは別途掲載予定です。
+**[Web BurnerでCoinM5をインストール（176枚版）](https://burner.m5stack.com/UJWSH9)**
+
+[M5Burner公式案内](https://docs.m5stack.com/ja/uiflow/m5burner/intro)。
 
 APPと画像DATAは別々に更新します。画像DATAが最終176枚版であれば、文章・機能の通常更新はAPPのみで、DATAの再書き込みは不要です。専用DATA領域がない場合の初回導入は通常更新と区別し、既存のFlash構成・保存データへの影響を確認してから行ってください。
 
@@ -90,7 +92,9 @@ The final edition replaces slots 148 and 150 with the two gold coins above and p
 
 Supported device: **M5Stack StopWatch**
 
-[Official M5Burner guide](https://docs.m5stack.com/en/uiflow/m5burner/intro). The final edition's share code and distribution files will be announced separately.
+**[Install CoinM5 via Web Burner (176-coin edition)](https://burner.m5stack.com/UJWSH9)**
+
+[Official M5Burner guide](https://docs.m5stack.com/en/uiflow/m5burner/intro).
 
 Application and image-data updates are separate. Once the final 176-coin data is installed, ordinary text and application updates do not require rewriting the image data. Initial provisioning of the dedicated data region is a separate operation; check its impact on the existing flash layout and stored data before proceeding.
 
